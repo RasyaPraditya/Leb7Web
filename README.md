@@ -81,7 +81,8 @@ Browser menampilkan tulisan "Belajar PHP", pesan bahwa PHP berhasil dijalankan, 
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/b61a8c03-2c73-4cfd-b750-3d0709275cc6" />
+
 
 ### 3.2 Variabel, Operator, dan Percabangan
 
@@ -95,7 +96,7 @@ Program menampilkan nama mahasiswa, nilai akhir, dan predikat berdasarkan hasil 
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/0c745c43-f554-42e3-ab95-c851221b3af0" />
 
 ### 3.3 Perulangan dan Array
 
@@ -107,7 +108,7 @@ Semua nama mahasiswa berhasil ditampilkan secara berurutan pada browser.
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/85c73aae-7bd6-4fcf-a446-6750842eb1df" />
 
 ### 3.4 Membuat Function
 
@@ -121,7 +122,7 @@ Program menampilkan harga setelah diskon sebesar **Rp135.000**.
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/78e83bdc-8ad2-4cae-ac05-1e778b3eb598" />
 
 ### 3.5 Memproses Form dengan GET
 
@@ -133,7 +134,7 @@ Kata kunci berhasil ditampilkan dan terlihat pada URL browser setelah formulir d
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/2dcad304-5e3b-412e-8c5e-1c42b5e29749" />
 
 ### 3.6 Memproses Form dengan POST
 
@@ -147,7 +148,7 @@ Data yang dimasukkan berhasil ditampilkan kembali. Jika terdapat kolom kosong, p
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/dbeeadf6-72f7-498e-b884-b0d0d03efdd8" />
 
 ### 3.7 Pengolahan Data Sederhana
 
@@ -161,7 +162,7 @@ Program menampilkan nama barang dan subtotal transaksi. Jika data tidak sesuai, 
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/16ea801b-7795-446c-a0ea-8e3f709812c3" />
 
 ### 3.8 Mini Project Aplikasi Formulir Data Mahasiswa
 
@@ -181,26 +182,7 @@ Jika seluruh data valid, aplikasi menampilkan ringkasan data mahasiswa. Jika ter
 
 **Dokumentasi:**
 
-<!-- Sisipkan screenshot hasil praktikum di sini -->
+<img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/3c82635d-a744-4eda-a267-d24cf1740487" />
 
 ---
 
-# BAB IV – PENGUJIAN DAN PEMBAHASAN
-
-### 4.1 Pengujian Input Valid
-
-Berikut contoh pengujian menggunakan data yang sesuai:
-
-1. Memasukkan nama mahasiswa, program studi, dan email dengan format yang benar. Data dapat diterima dan ditampilkan.
-2. Memasukkan harga barang sebesar Rp10.000 dan jumlah 2. Program berhasil menghitung subtotal sebesar Rp20.000.
-
-### 4.2 Pengujian Input Tidak Valid
-
-Berikut contoh pengujian menggunakan data yang tidak sesuai:
-
-1. Mengosongkan kolom nama atau program studi. Program menampilkan pesan bahwa semua kolom wajib diisi.
-2. Memasukkan format email yang salah atau semester di luar rentang 1–14. Program menampilkan pesan kesalahan validasi.
-
-### 4.3 Pembahasan
-
-Berdasarkan materi praktikum, PHP dapat digunakan
