@@ -1,5 +1,4 @@
-# Leb7Web
-
+# Lab7Web
 BAB I
 PENDAHULUAN
 1.1 Latar Belakang
@@ -13,6 +12,7 @@ Pada praktikum ini, mahasiswa mempelajari dasar pemrograman PHP mulai dari pengg
 5.	Memahami pemrosesan data menggunakan metode GET dan POST.
 6.	Memahami validasi dan sanitasi input pengguna.
 7.	Membuat aplikasi sederhana menggunakan PHP.
+
 BAB II
 DASAR TEORI
 2.1 Pengertian PHP
@@ -31,6 +31,7 @@ Function merupakan kumpulan kode yang dibuat untuk menjalankan tugas tertentu da
 GET merupakan metode pengiriman data melalui URL, sedangkan POST mengirimkan data melalui bagian body permintaan. POST umum digunakan untuk mengirimkan data dari formulir.
 2.8 Validasi dan Sanitasi
 Validasi digunakan untuk memastikan data yang dimasukkan sesuai dengan ketentuan. htmlspecialchars() digunakan untuk mengamankan tampilan input pengguna agar karakter HTML tidak diproses sebagai kode HTML atau script.
+
 BAB III
 LANGKAH KERJA DAN HASIL PRAKTIKUM
 3.1 Menjalankan Program PHP
@@ -65,7 +66,7 @@ Hasil yang diharapkan: Program menampilkan nama barang dan subtotal transaksi. J
 3.8 Mini Project Aplikasi Formulir Data Mahasiswa
 Pada mini project dibuat aplikasi formulir data mahasiswa yang terdiri dari nama, NIM, program studi, semester, dan email. Data dikirim menggunakan metode POST. Selanjutnya, PHP melakukan validasi terhadap setiap input, termasuk pemeriksaan format email dan semester dalam rentang 1 sampai 14.
 Hasil yang diharapkan: Jika seluruh data valid, aplikasi menampilkan ringkasan data mahasiswa. Jika terdapat kesalahan, aplikasi menampilkan pesan kesalahan sesuai input yang tidak memenuhi ketentuan.
- 
+
 BAB IV
 PENGUJIAN DAN PEMBAHASAN
 4.1 Pengujian Input Valid
@@ -101,4 +102,4 @@ PENUTUP
 5.1 Kesimpulan
 Berdasarkan praktikum yang telah dipelajari, dapat disimpulkan bahwa PHP merupakan bahasa pemrograman server-side yang berguna untuk membangun aplikasi web dinamis.
 Melalui praktikum ini, mahasiswa mempelajari penggunaan variabel, tipe data, operator, percabangan, perulangan, array, dan function. Selain itu, mahasiswa juga memahami cara menerima dan mengolah data menggunakan metode GET dan POST serta melakukan validasi terhadap input pengguna.
-Dengan demikian, praktikum ini memberikan pemahaman dasar mengenai cara kerja pemrograman server-side menggunakan PHP
+Dengan demikian, praktikum ini memberikan pemahaman dasar mengenai cara kerja pemrograman server-side menggunakan PHP.
